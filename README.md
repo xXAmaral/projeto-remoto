@@ -1,8 +1,8 @@
 # Versionamento Remoto
 
-Este repositorio é utilizado na aula sobre github
+Este repositório é utilizado na aula sobre github
 
-### Execução de projeto
+### Execução do projeto
 ```sh
-php -s localhost:8080 -t public
+php -S localhost:8000 -t public
 ```
